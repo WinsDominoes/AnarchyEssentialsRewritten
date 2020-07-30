@@ -76,7 +76,7 @@ info:
 
 # /howto command
 howto:
-    - "1. Fuck off, 2. Kys, 3. Get the fuck outta here, 4. Get your ass outta here, 5. Leave"
+    - "1. Nothing 2. Nothing 3. Nothing 4. Nothing"
 
 # /shit command
 shit:
