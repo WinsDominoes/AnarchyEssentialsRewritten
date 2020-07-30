@@ -5,6 +5,27 @@ A simple plugin for anarchy servers. Warning, there might be bad languages in th
 This plugin was originally coded by Me, but I decided to rewrite all of it and add configuration and other features. 
 The plugin is entirely coded by me and it is the original source code.
 
+If you are upgrading to a newer version, you might need to delete the old configuration then start the server and it will generate a new config. 
+
+### Authors
+This plugin was made by WinsDominoes (Owner of 10builders10tools or 10b10t.org). 
+
+And special thanks to Pistonmaster for helping me code some other features such as the reload command. 
+Here is his Github Page :D https://github.com/AlexProgrammerDE
+
+### Plugin Support
+If you have any questions, or need support. Please join our discord server
+https://discord.gg/fDbYgpu
+
+### Donations
+If you want to support the plugin and also the server of 10b10t.org, 
+please click on this link: https://ko-fi.com/10b10t.
+
+#### Reload Command
+To reload the configuration you can use the command /aereload
+
+The permission is: ae.reload
+
 ## Commands
 This plugin contains normal commands such as
 - /help
