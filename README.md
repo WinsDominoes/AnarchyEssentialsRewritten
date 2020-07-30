@@ -1,5 +1,5 @@
 # AnarchyEssentialsRewritten
-A simple plugin for anarchy servers. Warning, there might be bad languages in the configuration file so please beware.
+A simple plugin for anarchy servers. Warning, there might be bad languages in the default configuration file so please beware.
 
 ## About
 This plugin was originally coded by Me, but I decided to rewrite all of it and add configuration and other features. 
