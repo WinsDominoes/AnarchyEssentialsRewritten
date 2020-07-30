@@ -1,0 +1,29 @@
+name: AnarchyEssentials
+version: ${project.version}
+main: me.winsdominoes.plugin.anarchyessentials.AnarchyEssentials
+api-version: 1.16
+authors: [WinsDominoes, Pistonmaster]
+description: Complete Commands for Anarchy Servers
+website: http://10b10t.org
+commands:
+  help:
+    description: /help Command
+  vote:
+    description: /vote command
+  donate:
+    description: /donate command
+  info:
+    description: /info command
+  rules:
+    description: /rules command
+  shit:
+    description: for newfags who are stupid
+  fuck:
+    description: for newfags
+  howto:
+    description: for newfags
+  dupe:
+    description: for newfags
+  AEReload:
+    description: reload the config
+    permission: ae.reload
