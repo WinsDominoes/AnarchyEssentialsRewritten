@@ -10,7 +10,10 @@ This plugin contains normal commands such as
 - /help
 - /donate
 - /info 
-and others...
+- /vote
+- /rules
+- /howto
+and others. 
 
 ### Configuration (config.yml)
 The default config.yml
@@ -66,7 +69,7 @@ donate:
     # - "2. No Rules"
     # - "3. No Rules"
 
-#This is an updated version for the rules command which will be the reason why the player is kicked
+#This is an updated version for the rules command which will be the message displayed when the user got kicked.
 rules: §4This server is no rules because it's anarchy you idiot!
 
 # Info Command
@@ -78,7 +81,7 @@ info:
 howto:
     - "1. Nothing 2. Nothing 3. Nothing 4. Nothing"
 
-# /shit command
+# /shit command, which will kill the player then display the message
 shit:
     - "1. Dont ask for help, 2. Help Yourself"
 ```
