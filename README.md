@@ -39,7 +39,6 @@ and others.
 ### Configuration (config.yml)
 The default config.yml
 ```
-# AnarchyEssentials By WinsDominoes
 # AnarchyEssentials By WinsDominoes, And Pistonmaster (Hausemaster)
 # Website: 10b10t.org
 # VERSION 1.0 SNAPSHOT
@@ -90,8 +89,8 @@ donate:
     # - "2. No Rules"
     # - "3. No Rules"
 
-#This is an updated version for the rules command which will be the message displayed when the user got kicked.
-rules: §4This server is no rules because it's anarchy you idiot!
+#This is an updated version for the rules command which will be the reason why the player is kicked
+rules: This server is no rules because it's anarchy you idiot!
 
 # Info Command
 # This command can be used by players only, default /info will work only in the console
@@ -100,9 +99,21 @@ info:
 
 # /howto command
 howto:
-    - "1. Nothing 2. Nothing 3. Nothing 4. Nothing"
+    - "1. Fuck off, 2. Kys, 3. Get the fuck outta here, 4. Get your ass outta here, 5. Leave"
 
-# /shit command, which will kill the player then display the message
+# /shit command
 shit:
     - "1. Dont ask for help, 2. Help Yourself"
+
+# /tpa command for vanilla servers
+tpa:
+    - "You think that would work? In your dreams"
+
+# /home for you to troll people with
+home:
+    - "You aint getting that command aren't ya"
+
+# /sethome
+sethome:
+    - "Ahhhhh ok, you tryna set your home? Get the hell outta here"
 ```
