@@ -97,23 +97,23 @@ rules: This server is no rules because it's anarchy you idiot!
 info:
     - "§410builders§310tools is a minecraft anarchy server"
 
-# /howto command
+# /howto command, this command will send this message to the players
 howto:
     - "1. Fuck off, 2. Kys, 3. Get the fuck outta here, 4. Get your ass outta here, 5. Leave"
 
-# /shit command
+# /shit command, this command will kill players
 shit:
     - "1. Dont ask for help, 2. Help Yourself"
 
-# /tpa command for vanilla servers
+# /tpa command for vanilla servers, this command will kill the player and send this message
 tpa:
     - "You think that would work? In your dreams"
 
-# /home for you to troll people with
+# /home for you to troll people with, this command will kick the player with the reason specified
 home:
     - "You aint getting that command aren't ya"
 
-# /sethome
+# /sethome this command will kill the player and send this message
 sethome:
     - "Ahhhhh ok, you tryna set your home? Get the hell outta here"
 ```
