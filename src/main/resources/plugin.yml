@@ -24,6 +24,12 @@ commands:
     description: for newfags
   dupe:
     description: for newfags
+  home:
+    description: troll command for vanilla servers (experience)
+  sethome:
+    description: troll command for vanilla servers
+  tpa:
+    description: troll command for vanilla servers
   AEReload:
     description: reload the config
     permission: ae.reload

@@ -52,6 +52,12 @@ public final class AnarchyEssentials extends JavaPlugin {
 
         getCommand("dupe").setExecutor(new MainCommand());
 
+        getCommand("home").setExecutor(new MainCommand());
+
+        getCommand("sethome").setExecutor(new MainCommand());
+
+        getCommand("tpa").setExecutor(new MainCommand());
+
     }
 
 

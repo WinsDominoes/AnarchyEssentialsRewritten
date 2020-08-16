@@ -141,6 +141,44 @@ public class MainCommand implements CommandExecutor {
             }
         }
 
+        if (command.getName().equals("tpa")) {
+            if (sender instanceof Player) {
+                Player player = (Player) sender;
+                List<String> helpCommandList = plugin.config.getStringList("tpa");
+                String helpCommand = String.join("\n", helpCommandList);
+                player.sendMessage(helpCommand);
+                player.setHealth(0);
+                return false;
+            } else {
+                System.out.println("You must be a player to use this command");
+            }
+        }
+
+        if (command.getName().equals("home")) {
+            if (sender instanceof Player) {
+                Player player = (Player) sender;
+                List<String> helpCommandList = plugin.config.getStringList("home");
+                String helpCommand = String.join("\n", helpCommandList);
+                player.kickPlayer(helpCommand);
+                return false;
+            } else {
+                System.out.println("You must be a player to use this command");
+            }
+        }
+
+        if (command.getName().equals("sethome")) {
+            if (sender instanceof Player) {
+                Player player = (Player) sender;
+                List<String> helpCommandList = plugin.config.getStringList("sethome");
+                String helpCommand = String.join("\n", helpCommandList);
+                player.sendMessage(helpCommand);
+                player.setHealth(0);
+                return false;
+            } else {
+                System.out.println("You must be a player to use this command");
+            }
+        }
+
         if (command.getName().equals("AEReload")) {
             plugin.reloadConfig();
             sender.sendMessage(ChatColor.GREEN + "[AnarchyEssentials] Reloaded Config");

@@ -63,3 +63,15 @@ howto:
 # /shit command
 shit:
     - "1. Dont ask for help, 2. Help Yourself"
+
+# /tpa command for vanilla servers
+tpa:
+    - "You think that would work? In your dreams"
+
+# /home for you to troll people with
+home:
+    - "You aint getting that command aren't ya"
+
+# /sethome
+sethome:
+    - "Ahhhhh ok, you tryna set your home? Get the hell outta here"
