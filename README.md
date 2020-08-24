@@ -37,7 +37,7 @@ This plugin contains normal commands such as
 and others. 
 
 # Videos 
-[![Watch the video](https://winsvideo.net/uploads/videos/thumbnails/13629680-5f38a5d9182b6.jpg)](https://winsvideo.net/uploads/videos/5f38a5ce256e1.mp4)
+[![Watch the video](https://winsvideo.net/uploads/videos/5f38a5ce256e1.mp4)](https://winsvideo.net/uploads/videos/5f38a5ce256e1.mp4)
 
 
 ### Configuration (config.yml)
