@@ -105,7 +105,7 @@ info:
 
 # /howto command, this command will send this message to the players
 howto:
-    - "1. Fuck off, 2. Kys, 3. Get the fuck outta here, 4. Get your ass outta here, 5. Leave"
+    - "1. Fuck off, 2. Haha no, 3. Get the fuck outta here, 4. Get your ass outta here, 5. Leave"
 
 # /shit command, this command will kill players
 shit:
