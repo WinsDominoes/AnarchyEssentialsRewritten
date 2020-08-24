@@ -36,6 +36,9 @@ This plugin contains normal commands such as
 - /howto
 and others. 
 
+# Videos 
+<iframe src="https://winsvideo.net/uploads/videos/5f38a5ce256e1.mp4"></iframe>
+
 ### Configuration (config.yml)
 The default config.yml
 ```
