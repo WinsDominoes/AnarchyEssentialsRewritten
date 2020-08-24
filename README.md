@@ -38,6 +38,7 @@ and others.
 
 # Videos 
 A video of me testing the plugin :D
+
 [![Watch the video](https://winsvideo.net/uploads/videos/thumbnails/13629680-5f38a5d9182b6.jpg)](https://winsvideo.net/uploads/videos/5f38a5ce256e1.mp4)
 
 
