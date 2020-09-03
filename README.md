@@ -37,10 +37,7 @@ This plugin contains normal commands such as
 and others. 
 
 # Videos 
-A video of me testing the plugin :D
-
-[![Watch the video](https://winsvideo.net/uploads/videos/thumbnails/13629680-5f38a5d9182b6.jpg)](https://winsvideo.net/uploads/videos/5f38a5ce256e1.mp4)
-
+https://winsvideo.net/uploads/videos/5f38a5ce256e1.mp4
 
 ### Configuration (config.yml)
 The default config.yml
@@ -105,7 +102,7 @@ info:
 
 # /howto command, this command will send this message to the players
 howto:
-    - "1. Fuck off, 2. Haha no, 3. Get the fuck outta here, 4. Get your ass outta here, 5. Leave"
+    - "1. Fuck off, 2. Kys, 3. Get the fuck outta here, 4. Get your ass outta here, 5. Leave"
 
 # /shit command, this command will kill players
 shit:

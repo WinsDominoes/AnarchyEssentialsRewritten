@@ -36,13 +36,12 @@ public class MainCommand implements CommandExecutor {
                 List<String> helpCommandList = plugin.config.getStringList("vote");
                 String helpCommand = String.join("\n", helpCommandList);
                 player.sendMessage(helpCommand);
-
+                
                 return false;
             } else {
                 System.out.println("You must be a player to use this command");
             }
-        }
-
+        } // shit
         if (command.getName().equals("donate")) {
             if (sender instanceof Player) {
                 Player player = (Player) sender;
